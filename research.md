@@ -25,3 +25,15 @@ Decision: Stay with Raspberry Pi OS 64-bit
 ## 3. Touch File Manager Options
 
 *(filling in progress)*
+## 3. Touch File Manager Options
+
+- PCManFM - best choice, already installed on Raspberry Pi OS
+- Thunar - clean and simple, good touch support, slightly heavier
+- SpaceFM - very customizable, needs manual installation
+
+Decision: Use PCManFM
+- Already installed on Pi, no extra setup needed
+- Lightweight, wont slow down file transfers
+- Can be launched directly from Python code
+- Similar feel to Windows Explorer
+- Most suitable for small touch displays
